@@ -1,0 +1,2 @@
+cd C:\users\*****\desktop\mypython
+pyinstaller --onefile pyexe.py
